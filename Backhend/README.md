@@ -3,14 +3,6 @@ NASA APOD Explorer — Backend
 This backend provides REST APIs for fetching NASA Astronomy Picture of the Day (APOD) data. It
 securely handles NASA API requests using an Express.js server with caching.
 
-Project Structure:
-backend/
-- server.js
-- cache.js
-- package.json
-- .env
-- README.md
-
 Installation Guide:
 1. Move into backend folder:
 cd backend
